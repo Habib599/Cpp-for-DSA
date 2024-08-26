@@ -2,11 +2,11 @@
 
 
 Week 1: Basic Operators and OOP</summary>
-    
+    <ul>
         <li>1. Basic Operators</li>
         <li>2. Dynamic Memory Allocation</li>
         <li>3. Class and Object</li>
-    
+    </ul>
 
 
 <details>
