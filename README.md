@@ -1,6 +1,6 @@
 ## Course 2: C++ for DSA
 
-<details>
+
 Week 1: Basic Operators and OOP</summary>
     <ul>
         <li>1. Basic Operators</li>
