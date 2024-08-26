@@ -1,7 +1,7 @@
 ## Course 2: C++ for DSA
 
 
-### Week 1: Basic Operators and OOP</summary>
+Week 1: Basic Operators and OOP</summary>
     
         <li>1. Basic Operators</li>
         <li>2. Dynamic Memory Allocation</li>
