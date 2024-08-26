@@ -9,11 +9,10 @@ Week 1: Basic Operators and OOP</summary>
     </ul>
 
 
-<details>
-<summary>Week 2: String and OOP</summary>
+
+Week 2: String and OOP</summary>
     <ul>
         <li>5. String & Build in function</li>
         <li>6. Class and String</li>
         <li>7. Array of Objects</li>
     </ul>
-</details>
