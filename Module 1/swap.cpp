@@ -1,5 +1,4 @@
-#include<iostream>
-#include<utility>
+#include<bits/stdc++.h>
 using namespace std;
 // void my_swap(int *a,int *b)
 // {
