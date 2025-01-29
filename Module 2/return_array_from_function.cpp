@@ -4,8 +4,7 @@ int* fun()
 {
     int *a=new int[5];
     // int a[5];
-    for(int i=0;i<5;i++)
-    {
+    for(int i=0;i<5;i++){// input
         cin>>a[i];
     }
     return a;
@@ -13,13 +12,9 @@ int* fun()
 int main()
 {
     int *a=fun();
-    for(int i=0;i<5;i++)
-    {
+    for(int i=0;i<5;i++){ //output
         cout<<a[i]<<" ";
     }
     cout<<endl;
-    
-    
-    // code
     return 0;
 }

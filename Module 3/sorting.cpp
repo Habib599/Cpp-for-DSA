@@ -10,7 +10,7 @@ int main()
         cin>>a[i];
     }
     // sorting ascending
-    // sort(a,a+n);
+    sort(a,a+n);
     // sorting descending
     // sort(a,a+n,greater<int>());
     for(int i=0;i<n;i++)

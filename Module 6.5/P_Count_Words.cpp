@@ -6,21 +6,18 @@ int main()
     getline(cin,s);
     
     int count=0;
-    bool w=false;
+    bool word=false;
     for(char c:s)
     {
         if(isalpha(c))
         {
-            if(w==false)
-            {
-                count++;
-            }w=true;
-            
+            if(word==false) count++;
+
+            word=true;
         }
         else
-            {
-                w=false;
-            }   
+            word=false;
+         
     }    
     cout<<count<<endl;
     return 0;

@@ -1,0 +1,1 @@
+{"name":"Local: sorting","url":"c:\\Users\\mdhab\\OneDrive\\Documents\\GitHub\\Cpp-for-DSA\\Module 3\\sorting.cpp","tests":[{"id":1737854161007,"input":"5\n12 25 44 57 41","output":"12 25 41 44 57 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mdhab\\OneDrive\\Documents\\GitHub\\Cpp-for-DSA\\Module 3\\sorting.cpp","group":"local","local":true}

@@ -2,14 +2,14 @@
 using namespace std;
 
 int main() {
-    int num1, num2, num3;
-    cin >> num1 >> num2 >> num3;
+    int a, b, c;
+    cin >> a >> b >> c;
 
     // Find max and min using comparisons
-    int tempMax = max({num1, num2, num3}); // Or use if-else statements
-    int tempMin = min({num1, num2, num3}); 
+    int Max = max({a, b, c}); // Or use if-else statements
+    int Min = min({a, b, c}); 
 
-    cout << tempMin << " " << tempMax << endl;
+    cout << Min << " " << Max << endl;
 
     return 0;
 }

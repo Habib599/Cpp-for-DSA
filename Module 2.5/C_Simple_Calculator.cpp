@@ -1,22 +1,19 @@
 #include<bits/stdc++.h>
-
 using namespace std;
 
 int main() 
 {
-    int num1, num2;
-
-    cin >> num1 >> num2;
-
+    int a, b;
+    cin >> a >> b;
     
-    int sum = num1 + num2;
-    int product = num1 * num2;
-    int difference = num1 - num2;
+    int sum = a + b;
+    int product = a * b;
+    int difference = a - b;
 
     // Print results
-    cout << num1 << " + " << num2 << " = " << sum << endl;
-    cout << num1 << " * " << num2 << " = " << product << endl;
-    cout << num1 << " - " << num2 << " = " << difference << endl;
+    cout << a << " + " << b << " = " << sum << endl;
+    cout << a << " * " << b << " = " << product << endl;
+    cout << a << " - " << b << " = " << difference << endl;
 
     return 0;
 }

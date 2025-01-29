@@ -7,9 +7,11 @@ int main()
     getline(cin,s);
     stringstream ss(s);
     string world;
+
     ss>>world;
+
     reverse(world.begin(),world.end());
-        cout<<world;
+    cout<<world;
     while (ss>>world)
     {
         reverse(world.begin(),world.end());
