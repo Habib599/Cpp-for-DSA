@@ -25,7 +25,7 @@ int main()
             mx=a[i];
         }
     }
-    cout<<mx.name<<" "<<mx.roll<<" "<<mx.marks<<endl;
+    cout<<"max: "<<mx.name<<" "<<mx.roll<<" "<<mx.marks<<endl;
 
     Student mn;
     mn.marks=INT_MAX;
@@ -36,6 +36,6 @@ int main()
             mn=a[i];
         }
     }
-    cout<<mn.name<<" "<<mn.roll<<" "<<mn.marks<<endl;
+    cout<<"min: "<<mn.name<<" "<<mn.roll<<" "<<mn.marks<<endl;
     return 0;
 }
